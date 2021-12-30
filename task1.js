@@ -1,0 +1,3 @@
+function getDigitsOfNumber(num) {
+    return;
+}
